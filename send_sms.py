@@ -121,7 +121,7 @@ def send_whatsapp_text():
                                 {
                                     "type": "image",
                                     "image": {
-                                        "link": "https://cdn.fileinfo.com/img/ss/lg/jpeg_43.jpg"
+                                        "link": "https://linkpicture.com/q/precautions.jpg"
                                     }
                                 }
                             ]
